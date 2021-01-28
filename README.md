@@ -1,7 +1,7 @@
 # Picture In Picture
 ## Built with vanilla js to capture Media Screen of a user.
 ### Uses Picture In Picture API to watch a shared screen while multitasking
-### View Live Demo - [here](https://akiijadhav.github.io/Quote-Generator/)
+### View Live Demo - [here](https://akiijadhav.github.io/Picture-In-Picture/)
 
 <h5> Steps to Run it: </h5>
 <h6>1. hit "F5" / Refresh after you open page</h6>
